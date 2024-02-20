@@ -1,0 +1,13 @@
+Pokémon hra
+----------------------------
+Vytvoøit Objekt MiniGame
+Vytvoøit metodu attack
+
+--------------------------
+Desky na kuch stìnu
+Lišta na nože
+Stìnu obývák
+Vrátka mezi ložnicí a obývákem
+Bouda na náøadí
+Objednat zeminu na zahradu
+Terasu
